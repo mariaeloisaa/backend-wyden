@@ -37,7 +37,7 @@ py manage.py migrate
 Agora, inicie o servidor de desenvolvimento do Django para rodar a API localmente:
 py manage.py runserver
 
-8. Acesse a API
+7. Acesse a API
 Depois de rodar o servidor, a API estará disponível no endereço fornecido pelo terminal. Geralmente será algo como:
 
 http://127.0.0.1:8000/
@@ -46,7 +46,7 @@ Para acessar a lista de produtos, adicione /api/produtos à URL:
 
 http://127.0.0.1:8000/api/produtos
 
-9. Teste os endpoints
+8. Teste os endpoints
 Agora você pode testar a API com os seguintes endpoints:
 
 GET /api/produtos: Retorna a lista de produtos cadastrados.
