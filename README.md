@@ -5,7 +5,7 @@ Este repositório contém o backend do site de aromaterapia, desenvolvido em Dja
 # Funcionalidades
 Cadastro de produtos para aromaterapia;
 API RESTful utilizando Django Rest Framework;
-Endpoints para CRUD de produtos.
+Endpoints para CRUD de produtos
 
 # Como executar o projeto
 
