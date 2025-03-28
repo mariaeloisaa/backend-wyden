@@ -29,7 +29,7 @@ source venv/bin/activate
 Com o ambiente virtual ativado, instale as dependências do projeto:
 pip install -r requirements.txt
 
-5. Configure o banco de dados
+5. Configure o banco de dados:
 Execute as migrações do Django para configurar o banco de dados:
 py manage.py migrate
 
